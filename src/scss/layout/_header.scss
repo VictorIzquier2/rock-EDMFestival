@@ -8,6 +8,7 @@
   }
 }
 .navegacion-principal{
+  // Se han incluido mq para diferentes dispositivos
   @include m.telefono{
     background-color: blue;
   }
